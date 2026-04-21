@@ -24,5 +24,5 @@ e0860ca4b58ecbbccbdd2e73e11cb9c406f0600a8ec37309084e59fca3d8f43007d84ba679c8a236
 
 目标密文解密后的明文内容为：
 
-The secret message is: When using a stream cipher, never use the key more than once
+The secret message is: when using a stream cipher, never use the key more than once
 
